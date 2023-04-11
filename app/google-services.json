@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "617541904844",
+    "project_id": "communication-with-chat-46aa7",
+    "storage_bucket": "communication-with-chat-46aa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617541904844:android:f066b65de7665546985569",
+        "android_client_info": {
+          "package_name": "com.kaushik.communicationwithchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617541904844-0a4g472nvrpqra0971ojqp4kn80s3qr9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kaushik.communicationwithchat",
+            "certificate_hash": "9feef2866ae21d892767cb1990a9fc60b22308ea"
+          }
+        },
+        {
+          "client_id": "617541904844-5i6i6eadffruh9bpcbmr2od4bbjanc4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwqLB0NNr-XSd7JnvGyiFvKGslVILLOlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617541904844-5i6i6eadffruh9bpcbmr2od4bbjanc4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
